@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @joupi12
+- 👀 I’m interested in remote sensing, GIS, technology...
+- 🌱 I’m currently learning GEE...
+- 📫 How to reach me josearnaudo12@gmail.com...
+
+<!---
+joupi12/joupi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
